@@ -1,0 +1,7 @@
+.glow-btn {
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.glow-btn:hover {
+    box-shadow: 0 0 40px rgb(159 18 57);
+}
