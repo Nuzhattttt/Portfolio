@@ -4,11 +4,11 @@ const Education = () => {
     const education = [
         {
             "id": "01",
-            "degree": "Bachelor of Science in",
+            "degree": "Bachelor of Science",
             "subject": "Information & Communication Engineering",
             "institution": "Bangladesh University Of Professionals",
             "session": "2023",
-            "result": "CGPA-3.76"
+            "result": "CGPA-3.73"
         },
         {
             "id": "02",
