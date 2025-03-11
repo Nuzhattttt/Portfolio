@@ -20,6 +20,15 @@ const Banner = () => {
                             <Link to="https://github.com/Nuzhattttt"><AiFillGithub className="text-3xl text-rose-800 animate__animated animate__heartBeat animate__infinite" /></Link>
                             <Link to="https://www.linkedin.com/in/nuzhat-tabassum19"><AiFillLinkedin className="text-3xl text-rose-800 animate__animated animate__heartBeat animate__infinite" /></Link>
                         </div>
+                        <div className="flex justify-center mt-8">
+                            <button className="bg-gradient-to-r from-rose-500 to-rose-700 text-white font-semibold py-2 px-4 rounded-lg shadow-md hover:from-rose-600 hover:to-rose-800 transition duration-300">
+                                <a href="https://drive.google.com/file/d/16p6TXjIP3nz-ohGpW1VoWSDgfsnUrDsC/view"
+                                    target="_blank"
+                                    rel="noopener noreferrer">
+                                    Resume
+                                </a>
+                            </button>
+                        </div>
                     </div>
                 </div>
             </div>

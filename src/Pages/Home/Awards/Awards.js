@@ -30,7 +30,7 @@ const Awards = () => {
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 mt-8 place-items-center">
                 {awards.map((award) => (
                     <div className="w-[20rem] lg:w-[36rem]">
-                        <h2 className="text-3xl text-rose-600 text-center">{award.title}</h2>
+                        <h2 className="text-3xl text-rose-600 text-center h-16">{award.title}</h2>
                         <div className="mt-4 rounded-xl bg-opacity-15 bg-black shadow-xl px-8 py-6 w-[20rem] lg:w-[36rem] h-[8rem]">
                             <p>{award.description}</p>
                         </div>

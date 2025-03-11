@@ -37,7 +37,7 @@ const Education = () => {
                                 <div className="text-3xl text-rose-800">
                                     {edu.degree} {edu.subject && `in ${edu.subject}`}
                                 </div>
-                                <div className="text-xl">
+                                <div className="text-xl mt-2">
                                     {edu.session}
                                 </div>
                             </div>
